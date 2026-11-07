@@ -1,0 +1,6 @@
+{
+  "name": "Saranya AI – Meet My Digital Twin",
+  "description": "Interactive voice-enabled AI digital twin of Saranya Gadde built for the 100x AI Engineer assessment, showcasing her AI/ML background, projects, skills, and personality.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
